@@ -1,4 +1,6 @@
 - GitHub flow
+- variables todo en minuscula separadas por _
+- constantes con la primera letra en mayuscula separadas por _
 - Empezar YML con '---'
 - No usar tabulaciones. Usar dos epacios.
 - Empezar scripts con breves comentarios explicando funcionalidad. 
