@@ -1,3 +1,4 @@
+- GitHub flow
 - Empezar YML con '---'
 - No usar tabulaciones. Usar dos epacios.
 - Empezar scripts con breves comentarios explicando funcionalidad. 
